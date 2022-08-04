@@ -31,7 +31,6 @@ function FeedScreen({ navigation }) {
         onPress={() => navigation.navigate('Settings')}
       />
 
-     <Button title="Print" onPress={()=> console.log("Stuff")}/>
      
      </Box>
       
